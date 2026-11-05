@@ -1,0 +1,7 @@
+I used the dataset from https://ev.caltech.edu/dataset
+
+Json - acndata_sessions_2018_2019_spring_sem - plan to use to train the model and more on [time ranging : 2019 April 1st ~ 2019 June 14th(end of finals)]
+
+Json - acndata_sessions_2019_2020_winter_sem - final check with a whole new dataset [time ranging : 2020 January 6th ~ 2020 March 18th(end of finals & start of Caltech online classes)]
+
+My plan for this dataset is to test the built model with the whole new dataset to prevent cheating
